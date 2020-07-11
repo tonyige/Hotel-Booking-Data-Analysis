@@ -1,0 +1,10 @@
+from IPython.display import Image
+Image(filename='pictures.jpg')
+!pip install pycountry
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pycountry as pc
+import matplotlib.ticker as mtick
+
